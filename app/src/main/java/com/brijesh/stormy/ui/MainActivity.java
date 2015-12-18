@@ -66,6 +66,8 @@ public class MainActivity extends ActionBarActivity {
 
         ButterKnife.bind(this);
 
+        //random comment
+
         mProgressBar.setVisibility(View.INVISIBLE);
 
         final double latitude = 12.9715;
